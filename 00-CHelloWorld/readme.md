@@ -1,8 +1,9 @@
 
 A. el compilador seleccionado 
-Dev-C++
+Code Blocks
 
 B. la versión ese compilador
-5.11
+20.03
 
 C. y la versión de C que el compilador compila.
+C23
