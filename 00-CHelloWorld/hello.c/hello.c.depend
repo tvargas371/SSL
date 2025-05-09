@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1746801593 source:c:\users\admin\desktop\tomi\python\ssl\00-chelloworld\hello.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
